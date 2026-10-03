@@ -57,3 +57,17 @@ python -m http.server 5500 --bind 127.0.0.1
 ##  
  
 **تخصيص النسخة وإعدادها للاستخدام: فرقد عدنان — farkadadnan.**
+
+# 👨‍💻 Author
+<div align="center"> Farkad Adnan
+<br>
+I'm Dr. a Tech passionate who is in the chase of awesome projects and interesting tech concepts. I wish to create an impact in the field of computer science.
+
+ <img width="1384" height="765" alt="183365944-c4885511-22ed-49d0-ac2a-0bc44200b9aa" src="https://github.com/user-attachments/assets/fd44a094-3655-4f39-960f-5d35d7dff649" />
+
+ </div>
+
+---
+
+<div align="center">
+
